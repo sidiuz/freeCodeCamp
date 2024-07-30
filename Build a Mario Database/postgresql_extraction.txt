@@ -1,0 +1,1 @@
+pg_dump -cC --inserts -U freecodecamp mario_database > mario_database.sql
